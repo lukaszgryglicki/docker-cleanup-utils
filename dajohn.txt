@@ -1,0 +1,9 @@
+dev-analytics-affiliation-api-prod
+dev-analytics-affiliation-api
+dev-analytics-affiliation-api-test
+sync-data-sources-test
+sync-data-sources-prod
+validate-sync-data-sources
+dev-analytics-grimoire-docker-minimal
+json2hat-debug
+json2hat
